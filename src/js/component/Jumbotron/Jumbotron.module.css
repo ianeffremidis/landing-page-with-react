@@ -1,1 +1,18 @@
-.Jumbotron {}
+.test{
+    background-color: rgb(192, 115, 20);
+
+}
+
+.contain{
+display: inline-block;
+background-color: rgba(255, 228, 196, 0.349);
+padding: 3%;
+text-align: left;
+border-radius: 15px;
+}
+h1{
+    font-size:2rem;
+    font-weight:bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+
